@@ -13,4 +13,5 @@ Functional Programming In Games
 
 ### Papers
 
-
+##Note
+Actually, I m thinking that logoc programing resources could also live here, perhaps we need to rename this

@@ -11,6 +11,8 @@ Functional Programming In Games
 
 ### Videos
 
+* [A reactive game stack: Using Erlang, Lua and Voltdb to enable a nonsharded game world](https://www.youtube.com/watch?v=BiBvOGP-GNg)
+
 ### Papers
 
 ##Note

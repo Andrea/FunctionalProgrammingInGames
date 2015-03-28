@@ -6,7 +6,8 @@ Functional Programming In Games
 ## Books
 
 * [Game Programming in Haskell](https://leanpub.com/gameinhaskell)
-* [Friendly F#](http://www.amazon.com/Friendly-Fun-game-programming-Book-ebook/dp/B005HHYIWC) Not totally about games but all examples are game related 
+* [Friendly F#](http://www.amazon.com/Friendly-Fun-game-programming-Book-ebook/dp/B005HHYIWC) Not totally about games but all examples are game related
+* [Land of Lisp](http://landoflisp.com/)
 * [Realm of Racket](http://realmofracket.com/)
 
 ### Tutorials
@@ -20,7 +21,7 @@ Functional Programming In Games
 * [A reactive game stack: Using Erlang, Lua and Voltdb to enable a nonsharded game world](https://www.youtube.com/watch?v=BiBvOGP-GNg)
 * [Writing a game in Haskell](https://www.youtube.com/watch?v=1MNTerD8IuI)
 * [F# in Social Gaming](https://www.youtube.com/watch?v=ZMfqNfAGZHg)
-* [My adventure with Elm](https://vimeo.com/113703868)
+* [My adventures with Elm](https://vimeo.com/113703868)
 
 ### Presentations
 

@@ -29,5 +29,9 @@ Functional Programming In Games
 
 * [Monadic Scripting in F# for Computer Games](http://www.dsi.unive.it/~orsini/documenti/MonadicScripting2.pdf)
 
+### Libraries
+
+* [Haskell game related libraries](http://hackage.haskell.org/packages/#cat:game)
+
 ##Note
-Actually, I m thinking that logoc programing resources could also live here, perhaps we need to rename this
+Actually, I'm thinking that logic programing resources could also live here, perhaps we need to rename this? 

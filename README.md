@@ -6,7 +6,8 @@ Functional Programming In Games
 ## Books
 
 * [Game Programming in Haskell](https://leanpub.com/gameinhaskell)
-* [Friendly F#](http://www.amazon.com/Friendly-Fun-game-programming-Book-ebook/dp/B005HHYIWC) Not totally about games but all examples are game related 
+* [Friendly F#](http://www.amazon.com/Friendly-Fun-game-programming-Book-ebook/dp/B005HHYIWC) Not totally about games but all examples are game related
+* [Land of Lisp](http://landoflisp.com/)
 
 ### Tutorials
 

@@ -36,4 +36,4 @@ Functional Programming In Games
 * [Haskell game related libraries](http://hackage.haskell.org/packages/#cat:game)
 
 ##Note
-Actually, I'm thinking that logic programing resources could also live here, perhaps we need to rename this? 
+Actually, I'm thinking that logic programming resources could also live here, perhaps we need to rename this? 

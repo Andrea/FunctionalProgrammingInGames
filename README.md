@@ -17,10 +17,12 @@ Functional Programming In Games
 ### Videos
 
 * [A reactive game stack: Using Erlang, Lua and Voltdb to enable a nonsharded game world](https://www.youtube.com/watch?v=BiBvOGP-GNg)
+* [Writting a game in Haskell](https://www.youtube.com/watch?v=1MNTerD8IuI)
+* 
 
 ### Papers
 
-
+* [Monadic Scripting in F# for Computer Games](http://www.dsi.unive.it/~orsini/documenti/MonadicScripting2.pdf)
 
 ##Note
 Actually, I m thinking that logoc programing resources could also live here, perhaps we need to rename this

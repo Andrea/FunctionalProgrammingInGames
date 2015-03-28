@@ -18,7 +18,12 @@ Functional Programming In Games
 
 * [A reactive game stack: Using Erlang, Lua and Voltdb to enable a nonsharded game world](https://www.youtube.com/watch?v=BiBvOGP-GNg)
 * [Writting a game in Haskell](https://www.youtube.com/watch?v=1MNTerD8IuI)
-* 
+* [F# in Social Gaming](https://www.youtube.com/watch?v=ZMfqNfAGZHg)
+* [My adeventure with Elm](https://vimeo.com/113703868)
+
+### Presentations
+
+* [My adventure with Elm](http://www.slideshare.net/theburningmonk/my-adventure-with-elm-46396046)
 
 ### Papers
 

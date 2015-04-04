@@ -31,8 +31,9 @@ Functional Programming In Games
 
 * [Monadic Scripting in F# for Computer Games](http://www.dsi.unive.it/~orsini/documenti/MonadicScripting2.pdf)
 
-### Libraries
+### Libraries and engines
 
+* [HELM](http://helm-engine.org/) An FRP game engine inspired by Elm. 
 * [Haskell game related libraries](http://hackage.haskell.org/packages/#cat:game)
 
 ##Note

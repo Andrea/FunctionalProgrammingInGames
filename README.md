@@ -34,9 +34,14 @@ Functional Programming In Games
 
 ### Libraries and engines
 
+#### Haskell
 * [HELM](http://helm-engine.org/) An FRP game engine inspired by Elm. 
 * [FunGEn](http://joyful.com/fungen/) A BSD licensed, cross platform non FRP game engine written in Haskell.* 
 * [Haskell game related libraries](http://hackage.haskell.org/packages/#cat:game)
+
+#### F#
+
+* [Duality Scripting](https://github.com/BraveSirAndrew/DualityScripting) Allows you to write F# on the Duality Game Engine (the compiler is integrated into the editor so you can write code on any editor you want). This plugin supports C# too.
 
 ##Note
 Actually, I'm thinking that logic programming resources could also live here, perhaps we need to rename this? 

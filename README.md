@@ -30,10 +30,12 @@ Functional Programming In Games
 ### Papers
 
 * [Monadic Scripting in F# for Computer Games](http://www.dsi.unive.it/~orsini/documenti/MonadicScripting2.pdf)
+* [A Formal Specification for Casanova,a Language for Computer Games](http://www.dsi.unive.it/~orsini/documenti/SpecificationCasanova.pdf)
 
 ### Libraries and engines
 
 * [HELM](http://helm-engine.org/) An FRP game engine inspired by Elm. 
+* [FunGEn](http://joyful.com/fungen/) A BSD licensed, cross platform non FRP game engine written in Haskell.* 
 * [Haskell game related libraries](http://hackage.haskell.org/packages/#cat:game)
 
 ##Note

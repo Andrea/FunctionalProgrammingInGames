@@ -39,7 +39,7 @@ Functional Programming In Games
 * [FunGEn](http://joyful.com/fungen/) A BSD licensed, cross platform non FRP game engine written in Haskell.* 
 * [Haskell game related libraries](http://hackage.haskell.org/packages/#cat:game)
 
-#### F C&#35;
+#### F &#35;
 
 * [Duality Scripting](https://github.com/BraveSirAndrew/DualityScripting) Allows you to write F# on the Duality Game Engine (the compiler is integrated into the editor so you can write code on any editor you want). This plugin supports C# too.
 

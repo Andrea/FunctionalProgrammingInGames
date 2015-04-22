@@ -42,6 +42,7 @@ Functional Programming In Games
 #### F &#35;
 
 * [Duality Scripting](https://github.com/BraveSirAndrew/DualityScripting) Allows you to write F# on the Duality Game Engine (the compiler is integrated into the editor so you can write code on any editor you want). This plugin supports C# too.
+* [Nu Game Engine](https://github.com/bryanedds/FPWorks) cross-platform F# 2D game engine. It encourages to use as the architecture a variation of FRP which he calls Iterative Functional Reactive Programming.
 
 ##Note
 Actually, I'm thinking that logic programming resources could also live here, perhaps we need to rename this? 

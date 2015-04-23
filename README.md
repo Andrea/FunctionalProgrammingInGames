@@ -22,6 +22,7 @@ Functional Programming In Games
 * [Writing a game in Haskell](https://www.youtube.com/watch?v=1MNTerD8IuI)
 * [F# in Social Gaming](https://www.youtube.com/watch?v=ZMfqNfAGZHg)
 * [My adventures with Elm](https://vimeo.com/113703868)
+* [Morgan Mullaney - Well I Wouldn't Want To Make a *Dys*functional Game](http://www.meetup.com/FunctionalKats/events/221966876/)
 
 ### Presentations
 

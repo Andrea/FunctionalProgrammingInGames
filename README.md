@@ -45,5 +45,11 @@ Functional Programming In Games
 * [Duality Scripting](https://github.com/BraveSirAndrew/DualityScripting) Allows you to write F# on the Duality Game Engine (the compiler is integrated into the editor so you can write code on any editor you want). This plugin supports C# too.
 * [Nu Game Engine](https://github.com/bryanedds/FPWorks) cross-platform F# 2D game engine. It encourages to use as the architecture a variation of FRP which he calls Iterative Functional Reactive Programming.
 
+#### Clojure
+
+* [play-clj](https://github.com/oakes/play-clj) A wrapper around (libGDX)[http://libgdx.badlogicgames.com/]. It supports pc, Android and iOS (through [RoboVM](http://robovm.com/)).
+* [brute](https://github.com/markmandel/brute) An Entity Component System which supports both Clojure and ClojureScript. Some information on the thinking behind the implementation are on the author's [blog](http://www.compoundtheory.com/brute-entity-component-system-library-0-2-0-the-sequel/).
+* [Arcadia](https://github.com/arcadia-unity/Arcadia) Clojure integrated into the Unity engine. It uses ClojureCLR. It has been used for interactive art installations and game jam games.
+
 ##Note
 Actually, I'm thinking that logic programming resources could also live here, perhaps we need to rename this? 

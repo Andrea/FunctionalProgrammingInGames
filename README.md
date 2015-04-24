@@ -47,7 +47,7 @@ Functional Programming In Games
 
 #### Clojure
 
-* [play-clj](https://github.com/oakes/play-clj) A wrapper around (libGDX)[http://libgdx.badlogicgames.com/]. It supports pc, Android and iOS (through [RoboVM](http://robovm.com/)).
+* [play-clj](https://github.com/oakes/play-clj) A wrapper around [libGDX](http://libgdx.badlogicgames.com/). It supports pc, Android and iOS (through [RoboVM](http://robovm.com/)).
 * [brute](https://github.com/markmandel/brute) An Entity Component System which supports both Clojure and ClojureScript. Some information on the thinking behind the implementation are on the author's [blog](http://www.compoundtheory.com/brute-entity-component-system-library-0-2-0-the-sequel/).
 * [Arcadia](https://github.com/arcadia-unity/Arcadia) Clojure integrated into the Unity engine. It uses ClojureCLR. It has been used for interactive art installations and game jam games.
 

@@ -22,6 +22,7 @@ Functional Programming In Games
 
 ### Videos
 
+* [Building a platform game from the ground up with F# and MonoGame](https://www.youtube.com/playlist?list=PLIH3o_QrxxcfNMC3TjZ5NlHnB1AmcyaiV)
 * [A reactive game stack: Using Erlang, Lua and Voltdb to enable a nonsharded game world](https://www.youtube.com/watch?v=BiBvOGP-GNg)
 * [Writing a game in Haskell](https://www.youtube.com/watch?v=1MNTerD8IuI)
 * [F# in Social Gaming](https://www.youtube.com/watch?v=ZMfqNfAGZHg)

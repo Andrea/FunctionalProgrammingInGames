@@ -50,7 +50,7 @@ Thanks
 ### Libraries and engines
 
 #### Haskell
-* [HELM](http://helm-engine.org/) An FRP game engine inspired by Elm. 
+* [HELM](https://hackage.haskell.org/package/helm) An FRP game engine inspired by Elm. 
 * [FunGEn](http://joyful.com/fungen/) A BSD licensed, cross platform non FRP game engine written in Haskell.* 
 * [Haskell game related libraries](http://hackage.haskell.org/packages/#cat:game)
 * [LambdaHack](https://github.com/LambdaHack/LambdaHack) Haskell game engine library for roguelike dungeon crawlers.
@@ -65,6 +65,11 @@ Thanks
 * [play-clj](https://github.com/oakes/play-clj) A wrapper around [libGDX](http://libgdx.badlogicgames.com/). It supports pc, Android and iOS (through [RoboVM](http://robovm.com/)).
 * [brute](https://github.com/markmandel/brute) An Entity Component System which supports both Clojure and ClojureScript. Some information on the thinking behind the implementation are on the author's [blog](http://www.compoundtheory.com/brute-entity-component-system-library-0-2-0-the-sequel/).
 * [Arcadia](http://arcadia-unity.tumblr.com/) Clojure integrated into the Unity engine. It uses ClojureCLR. It has been used for interactive art installations and game jam games.
+
+#### Scala
+
+* [Indigo](https://indigoengine.io/): From their site: "Indigo is written in Scala (powered by Scala.js), as are the amazing games you'll make. It's intended for the people who really like pure functions, but being Scala, allows you too flip back to a more procedural or object oriented styles if that suits you or your game better."
+* [sgl](https://github.com/regb/scala-game-library)Scala Game Library (SGL) is a library for developing cross-platform 2D video games in Scala. It provides a high-level API for building games, and can export games to the Desktop, Android, and the web. More platforms, including iOS and consoles, are on the roadmap.
 
 #### Shipped or in development commercial games made with FP languages
 * [Onikira: Demon Killer](https://store.steampowered.com/app/310850/Onikira__Demon_Killer/) is a 2D side scrolling beat ‘em up set in a fantasy feudal Japan. It's on Steam (tho unsupported), parts of it written in F#.

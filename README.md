@@ -1,6 +1,10 @@
 Functional Programming In Games
 ============================
 
+Welcome to this page! Hope you find what you are looking for
+Please note: this list is not complete. If you find something missing or incorrect, please send a PR or create an issue specifying the problem. 
+Thanks
+
 ## Some resources for Functional Programming in Games Resources
 
 ## Books

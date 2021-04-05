@@ -9,6 +9,8 @@ Functional Programming In Games
 * [Friendly F#](http://www.amazon.com/Friendly-Fun-game-programming-Book-ebook/dp/B005HHYIWC) Not totally about games but all examples are game related
 * [Land of Lisp](http://landoflisp.com/)
 * [Realm of Racket](http://realmofracket.com/)
+* [Learn game development in Rust](https://sunjay.dev/learn-game-dev/getting-started.html)
+* [Hands-on Rust- Effective Learning through 2D Game Development and Play](https://pragprog.com/titles/hwrust/hands-on-rust/)
 
 ### Tutorials
 
@@ -61,11 +63,11 @@ Functional Programming In Games
 * [Arcadia](http://arcadia-unity.tumblr.com/) Clojure integrated into the Unity engine. It uses ClojureCLR. It has been used for interactive art installations and game jam games.
 
 #### Shipped or in development commercial games made with FP languages
-* [Onikira: Demon Killer](http://www.digitalfurnacegames.com/) is a 2D side scrolling beat ‘em up set in a fantasy feudal Japan. It's on Steam Early Access, written in F#.
+* [Onikira: Demon Killer](https://store.steampowered.com/app/310850/Onikira__Demon_Killer/) is a 2D side scrolling beat ‘em up set in a fantasy feudal Japan. It's on Steam (tho unsupported), parts of it written in F#.
 * [Wayward Tide](http://blog.chucklefish.org/set-sail-for-wayward-tide/) A game in development, targeting pc and written in Haskell
 * [Magic Cookies](http://keera.co.uk/blog/2015/03/19/magic-cookies-released-google-play/) Published on [iTunes](https://itunes.apple.com/us/app/magic-cookies/id1244709871) and [Google Play for Android](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies), it's written in Haskell.
 * [Nikki and the Robots](https://github.com/nikki-and-the-robots/nikki) is a 2-dimensional platform game written in Haskell, now open source. It's published on Steam.
-* [Asteroid Sharpshooter](http://marketplace.xbox.com/en-US/Product/Asteroid-Sharpshooter/66acd000-77fe-1000-9115-d80258550797) published on Xbox Live Indie Games, written in F#. [Slides on the development process](https://docs.google.com/presentation/d/1teGhBf-m7qRkMzsbCKvRcIEo-QLwdK9w8VOEWqu1qWQ/edit#slide=id.p). His [blog](http://sharp-gamedev.blogspot.co.uk/2011/03/asteroid-sharpshooter-post-mortem.html) has more information on how he made [F# work with XNA on Xbox 360](http://sharp-gamedev.blogspot.co.uk/search/label/xna).
+* [Asteroid Sharpshooter] published on Xbox Live Indie Games, written in F#. [Slides on the development process](https://docs.google.com/presentation/d/1teGhBf-m7qRkMzsbCKvRcIEo-QLwdK9w8VOEWqu1qWQ/edit#slide=id.p). His [blog](http://sharp-gamedev.blogspot.co.uk/2011/03/asteroid-sharpshooter-post-mortem.html) has more information on how he made [F# work with XNA on Xbox 360](http://sharp-gamedev.blogspot.co.uk/search/label/xna).
 
 #### Open Source Games
 * [Haskanoid](https://github.com/ivanperez-keera/haskanoid) A breakout game in Haskell using SDL and FRP, with Wiimote and Kinect support. [Available on Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.breakout.beta).
@@ -77,5 +79,3 @@ Functional Programming In Games
 * [Elm Flyer](http://jcollard.github.io/elm-flyer/) made with Elm. [Source](https://github.com/jcollard/elm-flyer-2014).
 * [Castle of Elm](http://www.castleofelm.com/) 7DRL game made in Elm. [Source](https://github.com/doppioslash/CastleOfElm), [slides](http://slides.com/doppioslash/the-elm-language-livjavascriptug) on Elm and developing a game jam game with it.
 
-##Note
-Actually, I'm thinking that logic programming resources could also live here, perhaps we need to rename this? 

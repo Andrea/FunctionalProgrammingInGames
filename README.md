@@ -2,7 +2,14 @@ Functional Programming In Games
 ============================
 
 Welcome to this page! Hope you find what you are looking for
-Please note: this list is not complete. If you find something missing or incorrect, please send a PR or create an issue specifying the problem. 
+
+I don't know you, but when I was learning how to do funcitonal programming I wanted to program fun things, or something other than a "website for your cat(tm)" so I was looking for FP in games and there wasn't much around at the time... so I created this list.
+
+
+**Please note: this list is not complete. If you find something missing or incorrect, please send a PR or create an issue specifying the problem. **
+
+
+
 Thanks
 
 ## Some resources for Functional Programming in Games Resources

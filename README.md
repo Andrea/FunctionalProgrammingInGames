@@ -107,6 +107,5 @@ Thanks
     * [lambda-lantern](https://github.com/lettier/lambda-lantern)
         * You collect functional programming patterns and use them to solve puzzles and escape a dungeon.
         * "Lambda Lantern is a game made with PureScript, PureScript Native, and Panda3D." ("One of the purposes of Lambda Lantern is to demonstrate binding PureScript to C++.")
-        * (A Haskell project with a GUI by the same author: [gifcurry](https://github.com/lettier/gifcurry))
     * **[functional](https://store.steampowered.com/app/1636730/functional/)** - on [Steam]((https://store.steampowered.com/app/1636730/functional/)) and [open source](https://github.com/yancouto/functional), implemented in Rust
         * **"functional is a puzzle game about math and abstraction."**

@@ -102,6 +102,11 @@ Thanks
         * [Nikki and the Robots](https://github.com/nikki-and-the-robots/nikki) commercial game written in Haskell, now open source.
 
 * **Meta - games that teach functional programming concepts in-game**
-    * [functional](https://store.steampowered.com/app/1636730/functional/): "functional is a puzzle game about math and abstraction." It's [open source](https://github.com/yancouto/functional). Implemented in Rust.
-    * [cube-composer](https://github.com/sharkdp/cube-composer): "A puzzle game inspired by functional programming, written in [PureScript](https://github.com/purescript/purescript)."
-    * [lambda lantern](https://github.com/lettier/lambda-lantern): "Lambda Lantern is a game made with PureScript, PureScript Native, and Panda3D. The premise of the game involves collecting and using functional programming patterns to solve puzzles and ultimately escape a dungeon. One of the purposes of Lambda Lantern is to demonstrate binding PureScript to C++."
+    * [cube-composer](https://github.com/sharkdp/cube-composer)
+        * "A puzzle game inspired by functional programming, written in [PureScript](https://github.com/purescript/purescript)."
+    * [lambda-lantern](https://github.com/lettier/lambda-lantern)
+        * You collect functional programming patterns and use them to solve puzzles and escape a dungeon.
+        * "Lambda Lantern is a game made with PureScript, PureScript Native, and Panda3D." ("One of the purposes of Lambda Lantern is to demonstrate binding PureScript to C++.")
+        * (A Haskell project with a GUI by the same author: [gifcurry](https://github.com/lettier/gifcurry))
+    * **[functional](https://store.steampowered.com/app/1636730/functional/)** - on [Steam]((https://store.steampowered.com/app/1636730/functional/)) and [open source](https://github.com/yancouto/functional), implemented in Rust
+        * **"functional is a puzzle game about math and abstraction."**

@@ -82,20 +82,33 @@ Thanks
 * [Indigo](https://indigoengine.io/): From their site: "Indigo is written in Scala (powered by Scala.js), as are the amazing games you'll make. It's intended for the people who really like pure functions, but being Scala, allows you too flip back to a more procedural or object oriented styles if that suits you or your game better."
 * [SGL](https://github.com/regb/scala-game-library): Scala Game Library (SGL) is a library for developing cross-platform 2D video games in Scala. It provides a high-level API for building games, and can export games to the Desktop, Android, and the web. More platforms, including iOS and consoles, are on the roadmap.
 
-#### Shipped or in development commercial games made with FP languages
+#### Games
+
+##### Shipped or in development commercial games made with FP languages
 * [Onikira: Demon Killer](https://store.steampowered.com/app/310850/Onikira__Demon_Killer/) is a 2D side scrolling beat ‘em up set in a fantasy feudal Japan. It's on Steam (tho unsupported), parts of it written in F#.
 * [Wayward Tide](http://blog.chucklefish.org/set-sail-for-wayward-tide/) A game in development, targeting pc and written in Haskell
 * [Magic Cookies](http://keera.co.uk/blog/2015/03/19/magic-cookies-released-google-play/) Published on [iTunes](https://itunes.apple.com/us/app/magic-cookies/id1244709871) and [Google Play for Android](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies), it's written in Haskell.
 * [Nikki and the Robots](https://github.com/nikki-and-the-robots/nikki) is a 2-dimensional platform game written in Haskell, now open source. It's published on Steam.
 * [Asteroid Sharpshooter] published on Xbox Live Indie Games, written in F#. [Slides on the development process](https://docs.google.com/presentation/d/1teGhBf-m7qRkMzsbCKvRcIEo-QLwdK9w8VOEWqu1qWQ/edit#slide=id.p). His [blog](http://sharp-gamedev.blogspot.co.uk/2011/03/asteroid-sharpshooter-post-mortem.html) has more information on how he made [F# work with XNA on Xbox 360](http://sharp-gamedev.blogspot.co.uk/search/label/xna).
 
-#### Open Source Games
-* [Haskanoid](https://github.com/ivanperez-keera/haskanoid) A breakout game in Haskell using SDL and FRP, with Wiimote and Kinect support. [Available on Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.breakout.beta).
-* [Allure of the Stars](https://github.com/AllureOfTheStars/Allure) is a near-future Sci-Fi roguelike and tactical squad game written in Haskell. 
-* [Nikki and the Robots](https://github.com/nikki-and-the-robots/nikki) commercial game written in Haskell, now open source.
+##### Open source
 
-#### Game jam games
-* [An Evening of Modern Dance](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=1066) made with Arcadia (Clojure) for Ludum Dare 32. Source available.
-* [Elm Flyer](http://jcollard.github.io/elm-flyer/) made with Elm. [Source](https://github.com/jcollard/elm-flyer-2014).
-* [Castle of Elm](http://www.castleofelm.com/) 7DRL game made in Elm. [Source](https://github.com/doppioslash/CastleOfElm), [slides](http://slides.com/doppioslash/the-elm-language-livjavascriptug) on Elm and developing a game jam game with it.
+* Game jam games
+    * [An Evening of Modern Dance](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=1066) made with Arcadia (Clojure) for Ludum Dare 32. Source available.
+    * [Elm Flyer](http://jcollard.github.io/elm-flyer/) made with Elm. [Source](https://github.com/jcollard/elm-flyer-2014).
+    * [Castle of Elm](http://www.castleofelm.com/) 7DRL game made in Elm. [Source](https://github.com/doppioslash/CastleOfElm), [slides](http://slides.com/doppioslash/the-elm-language-livjavascriptug) on Elm and developing a game jam game with it.
 
+* More open source games, by language
+    * Haskell
+        * [Haskanoid](https://github.com/ivanperez-keera/haskanoid) A breakout game in Haskell using SDL and FRP, with Wiimote and Kinect support. [Available on Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.breakout.beta).
+        * [Allure of the Stars](https://github.com/AllureOfTheStars/Allure) is a near-future Sci-Fi roguelike and tactical squad game written in Haskell. 
+        * [Nikki and the Robots](https://github.com/nikki-and-the-robots/nikki) commercial game written in Haskell, now open source.
+
+* **Meta - games that teach functional programming concepts in-game**
+    * [cube-composer](https://github.com/sharkdp/cube-composer)
+        * "A puzzle game inspired by functional programming, written in [PureScript](https://github.com/purescript/purescript)."
+    * [lambda-lantern](https://github.com/lettier/lambda-lantern)
+        * You collect functional programming patterns and use them to solve puzzles and escape a dungeon.
+        * "Lambda Lantern is a game made with PureScript, PureScript Native, and Panda3D." ("One of the purposes of Lambda Lantern is to demonstrate binding PureScript to C++.")
+    * **[functional](https://store.steampowered.com/app/1636730/functional/)** - on [Steam]((https://store.steampowered.com/app/1636730/functional/)) and [open source](https://github.com/yancouto/functional), implemented in Rust
+        * **"functional is a puzzle game about math and abstraction."**

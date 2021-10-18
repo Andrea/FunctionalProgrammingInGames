@@ -16,15 +16,16 @@ Thanks
 
 ## Books
 
-* [Game Programming in Haskell](https://leanpub.com/gameinhaskell)
-* [Friendly F#](http://www.amazon.com/Friendly-Fun-game-programming-Book-ebook/dp/B005HHYIWC) Not totally about games but all examples are game related
-* [Land of Lisp](http://landoflisp.com/)
-* [Realm of Racket](http://realmofracket.com/)
-* [Learn game development in Rust](https://sunjay.dev/learn-game-dev/getting-started.html)
-* [Hands-on Rust- Effective Learning through 2D Game Development and Play](https://pragprog.com/titles/hwrust/hands-on-rust/)
+* Haskell: [Game Programming in Haskell](https://leanpub.com/gameinhaskell)
+* F#: [Friendly F#](http://www.amazon.com/Friendly-Fun-game-programming-Book-ebook/dp/B005HHYIWC) Not totally about games but all examples are game related
+* Lisp: [Land of Lisp](http://landoflisp.com/)
+* Racket: [Realm of Racket](http://realmofracket.com/)
+* Rust:
+    * [Learn game development in Rust](https://sunjay.dev/learn-game-dev/getting-started.html)
+    * [Hands-on Rust- Effective Learning through 2D Game Development and Play](https://pragprog.com/titles/hwrust/hands-on-rust/)
+    * [arewegameyet.rs](https://arewegameyet.rs/#resources) links to 5+ books, and there are also tutorials, videos, etc.
 
 ### Tutorials
-
 
 * [F# game tutorial series with Monogame](http://bruinbrown.wordpress.com/f-game-tutorial-series/)
 * [Arcadia - Clojure on Unity3d](https://github.com/arcadia-unity/Arcadia)

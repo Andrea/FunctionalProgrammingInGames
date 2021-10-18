@@ -50,7 +50,7 @@ Thanks
 
 ### Presentations
 
-* [My adventure with Elm](http://www.slideshare.net/theburningmonk/my-adventure-with-elm-46396046)
+* [My adventure with Elm - Yan Cui](http://www.slideshare.net/theburningmonk/my-adventure-with-elm-46396046)
 
 ### Papers
 

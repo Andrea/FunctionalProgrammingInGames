@@ -45,6 +45,8 @@ Thanks
 * [Games and 3D Graphics in Arcadia](https://www.youtube.com/watch?v=zmmdYyAQhmM)
 * [CodeMesh 2014 - Arcadia: Functional Video Game Development](https://www.youtube.com/watch?v=lHz5A19h9Z8)
 * [Making Games at Runtime with Clojure (with play-clj)](https://www.youtube.com/watch?v=0GzzFeS5cMc)
+* [RustConf 2018 - Closing Keynote - Using Rust For Game Development by Catherine West](https://www.youtube.com/watch?v=aKLntZcp27M)
+* [Rust Linz, 2021 - Herbert Wolverson - Learning Rust with Game Development](https://www.youtube.com/watch?v=79GyLlXAk-0) - this video is by the author of [Hands-On Rust](https://pragprog.com/titles/hwrust/hands-on-rust/)
 
 ### Presentations
 

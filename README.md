@@ -82,6 +82,10 @@ Thanks
 * [Indigo](https://indigoengine.io/): A Scala 3 / Scala.js 2D game engine built specifically for functional programmers.
 * [SGL](https://github.com/regb/scala-game-library): Scala Game Library (SGL) is a library for developing cross-platform 2D video games in Scala. It provides a high-level API for building games, and can export games to the Desktop, Android, and the web. More platforms, including iOS and consoles, are on the roadmap.
 
+#### Awesome Gamedev Repositories
+
+* OCaml: [Awesome OCaml Gamedev](https://github.com/fccm/awesome-gamedev-ocaml)
+
 #### Games
 
 ##### Shipped or in development commercial games made with FP languages

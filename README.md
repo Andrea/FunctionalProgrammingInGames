@@ -70,6 +70,7 @@ Thanks
 * [Duality Scripting](https://github.com/BraveSirAndrew/DualityScripting) Allows you to write F# on the Duality Game Engine (the compiler is integrated into the editor so you can write code on any editor you want). This plugin supports C# too.
 * [Nu Game Engine](https://github.com/bryanedds/FPWorks) cross-platform F# 2D game engine. It encourages to use as the architecture a variation of FRP which he calls Iterative Functional Reactive Programming.
 * Unity 3D can be used with F#. There are multiple examples in the internet, for example [this one](https://github.com/Thorium/Roll-a-ball-FSharp).
+* [Godot](https://godotengine.org/) can be scripted with F#. Setup guides for [Godot 3](https://hamy.xyz/labs/2022-11-godot-script-with-fsharp) and [Godot 4](https://hamy.xyz/labs/2023-04-godot-4-script-fsharp).
 
 #### Clojure
 

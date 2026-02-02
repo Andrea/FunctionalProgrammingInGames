@@ -41,7 +41,7 @@ Thanks
 * [Writing a game in Haskell](https://www.youtube.com/watch?v=1MNTerD8IuI)
 * [F# in Social Gaming](https://www.youtube.com/watch?v=ZMfqNfAGZHg)
 * [My adventures with Elm](https://vimeo.com/113703868)
-* [Morgan Mullaney - Well I Wouldn't Want To Make a *Dys*functional Game](http://www.meetup.com/FunctionalKats/events/221966876/)
+* [Morgan Mullaney - Well I Wouldn't Want To Make a *Dys*functional Game](http://www.meetup.com/FunctionalKats/events/221966876/) ([Video](https://www.youtube.com/watch?v=TDDJsKLUh1Y))
 * [Games and 3D Graphics in Arcadia](https://www.youtube.com/watch?v=zmmdYyAQhmM)
 * [CodeMesh 2014 - Arcadia: Functional Video Game Development](https://www.youtube.com/watch?v=lHz5A19h9Z8)
 * [Making Games at Runtime with Clojure (with play-clj)](https://www.youtube.com/watch?v=0GzzFeS5cMc)

@@ -83,6 +83,7 @@ Thanks
 
 * [Indigo](https://indigoengine.io/): A Scala 3 / Scala.js 2D game engine built specifically for functional programmers.
 * [SGL](https://github.com/regb/scala-game-library): Scala Game Library (SGL) is a library for developing cross-platform 2D video games in Scala. It provides a high-level API for building games, and can export games to the Desktop, Android, and the web. More platforms, including iOS and consoles, are on the roadmap.
+* [Minart](https://github.com/JD557/minart): Scala library with low-level primitives for making media applications such as games. Compiles to the JVM native and JS.
 
 #### Awesome Gamedev Repositories
 
@@ -103,12 +104,18 @@ Thanks
     * [An Evening of Modern Dance](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=1066) made with Arcadia (Clojure) for Ludum Dare 32. Source available.
     * [Elm Flyer](http://jcollard.github.io/elm-flyer/) made with Elm. [Source](https://github.com/jcollard/elm-flyer-2014).
     * [Castle of Elm](http://www.castleofelm.com/) 7DRL game made in Elm. [Source](https://github.com/doppioslash/CastleOfElm), [slides](http://slides.com/doppioslash/the-elm-language-livjavascriptug) on Elm and developing a game jam game with it.
+    * [Hyper Loop Runner](https://jd557.itch.io/hyper-loop-runner) LD47 racing game made with Scala. [Source](https://github.com/JD557/HyperLoopRunner)
+    * [Volcano Lullaby](https://jd557.itch.io/volcano-lullaby) LD50 platforming game made with Scala. [Source](https://github.com/JD557/volcano-lullaby)
+    * [10 Second Lander](https://jd557.itch.io/10-second-lander) MJ130 clone of lunar lander with a time limit. [Source](https://github.com/JD557/10-second-lander)
+    * [Xtreme Skydive 3D](https://jd557.itch.io/xtreme-skydive-3d) 32BitJam entry based on Nokia Skydiver. [Source](https://github.com/JD557/xtreme-skydive-3d)
 
 * More open source games, by language
     * Haskell
         * [Haskanoid](https://github.com/ivanperez-keera/haskanoid) A breakout game in Haskell using SDL and FRP, with Wiimote and Kinect support. [Available on Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.breakout.beta).
         * [Allure of the Stars](https://github.com/AllureOfTheStars/Allure) is a near-future Sci-Fi roguelike and tactical squad game written in Haskell. 
         * [Nikki and the Robots](https://github.com/nikki-and-the-robots/nikki) commercial game written in Haskell, now open source.
+     * Scala
+        * [The Minartaur's Lair](https://github.com/JD557/scala-roguelike) Roguelike following the rougly following the "Yet another roguelike" tutorial. [itch.io](https://jd557.itch.io/the-minartaurs-lair)
 
 * **Meta - games that teach functional programming concepts in-game**
     * [cube-composer](https://github.com/sharkdp/cube-composer)
